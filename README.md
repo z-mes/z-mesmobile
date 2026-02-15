@@ -1,4 +1,4 @@
-# Z-mes Desktop
+# Z-mes Mobile
 
 Мессенджер для Mobile
 
